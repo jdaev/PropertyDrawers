@@ -4,20 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b00f9ed-fbf1-4a19-b65e-b632380ac9d0" name="Default Changelist" comment="" />
+    <list default="true" id="5b00f9ed-fbf1-4a19-b65e-b632380ac9d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PropertyDrawers/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PropertyDrawers/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PropertyDrawers/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PropertyDrawers/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PropertyDrawers/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PropertyDrawers/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PropertyDrawers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PropertyDrawers/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Assets/PropertyExample.cs" />
-        <option value="$PROJECT_DIR$/Assets/TestScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Editor/PropertyExample.cs" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lZOaAN6z8EcPecuKEq4TFSNb3C" />
   <component name="ProjectViewState">
@@ -37,7 +36,7 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="selectedOptions">
-        <set />
+        <list />
       </option>
       <method v="2" />
     </configuration>
@@ -46,7 +45,7 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="selectedOptions">
-        <set />
+        <list />
       </option>
       <method v="2" />
     </configuration>
@@ -60,6 +59,9 @@
       <option name="presentableId" value="Default" />
       <updated>1607801211028</updated>
       <workItem from="1607801224091" duration="7250000" />
+      <workItem from="1608318000574" duration="298000" />
+      <workItem from="1608332580742" duration="37000" />
+      <workItem from="1608334576988" duration="10000" />
     </task>
     <servers />
   </component>
